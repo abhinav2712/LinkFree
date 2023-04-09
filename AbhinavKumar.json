@@ -1,0 +1,23 @@
+{
+  "name": "Abhinav Kumar",
+  "type": "personal",
+  "bio": "Full Stack Developer - Devops Enthusiast - UI/UX Developer || Building mindcommute.com"
+   "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Abhinav27k",
+      "icon": "FaTwitter"
+    },
+  {
+      "name": "Github",
+      "url": "https://github.com/abhinav2712",
+      "icon": "FaGithub"
+    },
+{
+      "name": " LinkedIn",
+      "url": "https://www.linkedin.com/in/abhinav-kumar-9639b4143/",
+      "icon": "FaLinkedin"
+    },
+
+  ]
+}
